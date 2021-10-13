@@ -4,7 +4,7 @@ public class Interval {
             public static void main(String[] args) {
             Scanner scan = new Scanner(System.in);
 
-            int a = 0, b = 14, d = 15, e = 35, f = 36, g = 49, h = 50, j = 100, k = 81, n = 100;
+            int a = 0, b = 14, d = 15, e = 35, f = 36, g = 49, h = 50, j = 100;
 
             System.out.print("программа проверки интервала" + "\n" + "Введите число: ");
 
